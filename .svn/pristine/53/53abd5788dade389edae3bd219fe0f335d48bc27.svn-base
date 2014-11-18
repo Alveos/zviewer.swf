@@ -1,0 +1,1 @@
+Copyright 2008,2009 Cristian Rusu crirus@gmail.com, ReadEasy Inc
